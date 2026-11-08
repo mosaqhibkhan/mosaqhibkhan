@@ -127,19 +127,6 @@ A full-stack application that generates 7-day workout schedules and goal-based d
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mosaqhibkhan&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaqhibkhan&layout=compact&theme=transparent&hide_border=true" height="165" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mosaqhibkhan&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
-
 ## Connect With Me
 
 - **GitHub:** [mosaqhibkhan](https://github.com/mosaqhibkhan)
