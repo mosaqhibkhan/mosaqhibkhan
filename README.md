@@ -88,7 +88,7 @@ A full-stack application that generates 7-day workout schedules and goal-based d
 ## Professional Experience
 
 ### Research Analyst Intern
-**IXORA Global Services Pvt. Ltd. (Concentrix Project)**
+**IXORA Global Services Pvt. Ltd. (Google Project)**
 
 *July 2025 – September 2025*
 
@@ -102,7 +102,7 @@ A full-stack application that generates 7-day workout schedules and goal-based d
 ## Achievements
 
 - **Runner-up - ISTE Karnataka IDEATHON 2025:** State-level competition featuring 700+ participating teams.
-- **Research Analyst Internship:** Professional experience working on the Concentrix project.
+- **Research Analyst Internship:** Professional experience working on the Google project.
 - **Finalist - Haccverse 2025:** National-level competition featuring 1000+ participating teams.
 
 ---
