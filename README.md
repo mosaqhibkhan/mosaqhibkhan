@@ -27,7 +27,7 @@ Currently strengthening my problem-solving skills, DSA, computer science fundame
 
 | Category | Technologies |
 |---|---|
-| Programming Languages | C, C++, Java, Python, JavaScript |
+| Programming Languages | Python, C, C++, Java, JavaScript |
 | Frontend | React.js, Vite, HTML5, CSS3, Tailwind CSS |
 | Backend | Node.js, Express.js, REST APIs, Flask |
 | Databases | MongoDB, MongoDB Atlas, MySQL |
@@ -60,7 +60,6 @@ A student-powered campus event discovery platform where students report college 
 **Links:**
 - [GitHub Repository](https://github.com/mosaqhibkhan/Eventify)
 - [Live Frontend](https://eventify-seven-murex.vercel.app)
-- [Backend API](https://eventify-backend-1i56.onrender.com)
 
 ---
 
@@ -102,9 +101,9 @@ A full-stack application that generates 7-day workout schedules and goal-based d
 
 ## Achievements
 
-- **Runner-up – ISTE Karnataka IDEATHON 2025:** State-level competition featuring 700+ participating teams.
+- **Runner-up - ISTE Karnataka IDEATHON 2025:** State-level competition featuring 700+ participating teams.
 - **Research Analyst Internship:** Professional experience working on the Concentrix project.
-- **Full-Stack Development:** Built applications integrating backend engineering, database management, and machine learning.
+- **Finalist - Haccverse 2025:** National-level competition featuring 1000+ participating teams.
 
 ---
 
