@@ -27,7 +27,7 @@ Currently strengthening my problem-solving skills, DSA, computer science fundame
 
 | Category | Technologies |
 |---|---|
-| Programming Languages | Python, C, C++, Java, JavaScript |
+| Programming Languages | Python, C, C++, JavaScript |
 | Frontend | React.js, Vite, HTML5, CSS3, Tailwind CSS |
 | Backend | Node.js, Express.js, REST APIs, Flask |
 | Databases | MongoDB, MongoDB Atlas, MySQL |
